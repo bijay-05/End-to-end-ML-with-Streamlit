@@ -1,4 +1,4 @@
-# End-to-end-ML-with-Streamlit
+# Diabetes-Detection-System-with-Streamlit
 *A beginner level end to end machine learning project using streamlit.*
 
 In this basic end-to-end machine learning project, we will demonstrate how we will use a machine learning model in real world applications. First we need to define the objective of our project. The objective of a project helps to understand why we are doing a particular project, the problem we are trying to solve and how our end result should look like.
